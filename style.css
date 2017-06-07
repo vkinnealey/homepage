@@ -1,0 +1,21 @@
+* {
+	font-family: Lora, Garamond;
+ 	font-size: 25px;
+}
+
+body {
+	background-image: url("flower.jpg");
+	background-repeat: no-repeat;
+	background-position: left top;
+	background-size: contain;
+}
+ 
+.intro {
+	color: #990000;
+ 	text-align: center;
+  	overflow: auto;
+  }
+ 
+.test {
+  	color: red;
+  }
